@@ -1,2 +1,3 @@
 # Blooket-Hack
-A ton of blooket hacks
+🌟Please Star This Project🌟
+Thanks!
