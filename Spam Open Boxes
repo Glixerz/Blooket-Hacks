@@ -135,7 +135,7 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
                 "Gingerbread Man": 20,
                 "Gingerbread House": 20,
                 Snowman: 75,
-                "Santa Claus": 20000,
+                "Santa Claus": 2000,
                 "Frost Wreath": 300,
                 "Tropical Globe": 300
 
