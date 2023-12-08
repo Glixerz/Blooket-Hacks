@@ -130,12 +130,12 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
                 "Haunted Pumpkin": 300,
                 "Snow Globe": 5,
                 "Holiday Gift": 5,
-                "Hot Chocolate": 5,
+                "Hot Chocolate": 5000,
                 "Holiday Wreath": 5,
                 "Gingerbread Man": 20,
                 "Gingerbread House": 20,
                 Snowman: 75,
-                "Santa Claus": 200,
+                "Santa Claus": 20000,
                 "Frost Wreath": 300,
                 "Tropical Globe": 300
 
