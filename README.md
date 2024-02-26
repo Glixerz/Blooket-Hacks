@@ -1,1 +1,1 @@
-# Blooket-Hack
+Blookets hacks
